@@ -45,7 +45,15 @@ La mayor duda que me queda es como responder ante ciertos incidentes además de 
 
 ## 2) Resumen esquematizado (obligatorio)
 
-La Unidad 2 sobre Análisis de Incidentes me ha enseñado a entender que es un incidente de seguridad y como clasificarlo usando herramientas especializadas y que equipos se encargan de gestionarlos. Durante esta unidad he trabajado con entornos de detección como Snort y ELK, además he aprendido técnicas de OSINT para evaluar la información pública.
+| Aspecto                         | Descripción                                                                 |
+|----------------------------------|----------------------------------------------------------------------------|
+| Unidad                          | Unidad 2 – Análisis de Incidentes                                          |
+| Concepto clave                  | Comprensión de qué es un incidente de seguridad                            |
+| Clasificación                   | Identificación y categorización de incidentes según su tipo y gravedad     |
+| Herramientas de detección       | Snort (IDS) y ELK (análisis y correlación de logs)                        |
+| Técnicas aplicadas              | Uso de OSINT para evaluación de información pública                        |
+| Equipos involucrados            | Equipos de respuesta a incidentes (CSIRT / SOC)                           |
+| Competencias desarrolladas      | - Detección de amenazas                                                    |
 
 ### 2.1) Mapa/índice de la unidad (visión global)
 
@@ -146,5 +154,5 @@ Enlaza aquí evidencias (capturas, logs, configuraciones, salidas de comandos, e
 
 ## 4) Conclusión (cierre)
 
-Este tema me ha resultado un poco más interesante que el anterior por los temas tocados como he mencionado anteriormente.
+Esta unidad me ha resultado un poco más interesante que el anterior por los temas tocados como he mencionado anteriormente.
 Pienso que la parte práctica al fin y al cabo es la que me ha resultado más útil y le he puesto más empeño. Por otra parte, el trabajo de conceptos SOC, CSIRT, CERT y CIRT, SIEM, IDS, IPS entre otros no me ha gustado ni por la manera de aprenderlo, ni por el tiempo en el que se ha dado ese criterio.
