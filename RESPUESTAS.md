@@ -53,7 +53,6 @@ La mayor duda que me queda es como responder ante ciertos incidentes además de 
 | Herramientas de detección       | Snort (IDS) y ELK (análisis y correlación de logs)                        |
 | Técnicas aplicadas              | Uso de OSINT para evaluación de información pública                        |
 | Equipos involucrados            | Equipos de respuesta a incidentes (CSIRT / SOC)                           |
-| Competencias desarrolladas      | - Detección de amenazas                                                    |
 
 ### 2.1) Mapa/índice de la unidad (visión global)
 
